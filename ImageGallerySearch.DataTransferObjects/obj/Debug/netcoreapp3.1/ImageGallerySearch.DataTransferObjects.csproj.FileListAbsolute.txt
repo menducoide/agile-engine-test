@@ -1,0 +1,8 @@
+D:\Source\dotnet\AgileEngineTest\ImageGallerySearch.DataTransferObjects\bin\Debug\netcoreapp3.1\ImageGallerySearch.DataTransferObjects.deps.json
+D:\Source\dotnet\AgileEngineTest\ImageGallerySearch.DataTransferObjects\bin\Debug\netcoreapp3.1\ImageGallerySearch.DataTransferObjects.dll
+D:\Source\dotnet\AgileEngineTest\ImageGallerySearch.DataTransferObjects\bin\Debug\netcoreapp3.1\ImageGallerySearch.DataTransferObjects.pdb
+D:\Source\dotnet\AgileEngineTest\ImageGallerySearch.DataTransferObjects\obj\Debug\netcoreapp3.1\ImageGallerySearch.DataTransferObjects.csproj.CoreCompileInputs.cache
+D:\Source\dotnet\AgileEngineTest\ImageGallerySearch.DataTransferObjects\obj\Debug\netcoreapp3.1\ImageGallerySearch.DataTransferObjects.AssemblyInfoInputs.cache
+D:\Source\dotnet\AgileEngineTest\ImageGallerySearch.DataTransferObjects\obj\Debug\netcoreapp3.1\ImageGallerySearch.DataTransferObjects.AssemblyInfo.cs
+D:\Source\dotnet\AgileEngineTest\ImageGallerySearch.DataTransferObjects\obj\Debug\netcoreapp3.1\ImageGallerySearch.DataTransferObjects.dll
+D:\Source\dotnet\AgileEngineTest\ImageGallerySearch.DataTransferObjects\obj\Debug\netcoreapp3.1\ImageGallerySearch.DataTransferObjects.pdb

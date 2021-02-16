@@ -1,0 +1,9 @@
+D:\Source\dotnet\AgileEngineTest\ImageGallerySearch.Common\bin\Debug\netcoreapp3.1\ImageGallerySearch.Common.deps.json
+D:\Source\dotnet\AgileEngineTest\ImageGallerySearch.Common\bin\Debug\netcoreapp3.1\ImageGallerySearch.Common.dll
+D:\Source\dotnet\AgileEngineTest\ImageGallerySearch.Common\bin\Debug\netcoreapp3.1\ImageGallerySearch.Common.pdb
+D:\Source\dotnet\AgileEngineTest\ImageGallerySearch.Common\obj\Debug\netcoreapp3.1\ImageGallerySearch.Common.AssemblyInfoInputs.cache
+D:\Source\dotnet\AgileEngineTest\ImageGallerySearch.Common\obj\Debug\netcoreapp3.1\ImageGallerySearch.Common.AssemblyInfo.cs
+D:\Source\dotnet\AgileEngineTest\ImageGallerySearch.Common\obj\Debug\netcoreapp3.1\ImageGallerySearch.Common.dll
+D:\Source\dotnet\AgileEngineTest\ImageGallerySearch.Common\obj\Debug\netcoreapp3.1\ImageGallerySearch.Common.pdb
+D:\Source\dotnet\AgileEngineTest\ImageGallerySearch.Common\obj\Debug\netcoreapp3.1\ImageGallerySearch.Common.csprojAssemblyReference.cache
+D:\Source\dotnet\AgileEngineTest\ImageGallerySearch.Common\obj\Debug\netcoreapp3.1\ImageGallerySearch.Common.csproj.CoreCompileInputs.cache

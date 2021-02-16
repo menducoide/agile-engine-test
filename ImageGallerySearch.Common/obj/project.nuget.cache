@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "58r+snajJzZCz9eq0XNTbybZ9BYFvDLA2UjirO/vEn9xztdBmJ1KC7qw8tt10MLipc1k6xs7Me3k14UA5bT3JA==",
+  "success": true,
+  "projectFilePath": "D:\\Source\\dotnet\\AgileEngineTest\\ImageGallerySearch.Common\\ImageGallerySearch.Common.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\matia\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\5.0.0\\microsoft.extensions.caching.abstractions.5.0.0.nupkg.sha512",
+    "C:\\Users\\matia\\.nuget\\packages\\microsoft.extensions.primitives\\5.0.0\\microsoft.extensions.primitives.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

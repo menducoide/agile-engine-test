@@ -1,0 +1,16 @@
+D:\Source\dotnet\AgileEngineTest\ImageGallerySearch.Domain\obj\Debug\netcoreapp3.1\ImageGallerySearch.Domain.csprojAssemblyReference.cache
+D:\Source\dotnet\AgileEngineTest\ImageGallerySearch.Domain\obj\Debug\netcoreapp3.1\ImageGallerySearch.Domain.AssemblyInfoInputs.cache
+D:\Source\dotnet\AgileEngineTest\ImageGallerySearch.Domain\obj\Debug\netcoreapp3.1\ImageGallerySearch.Domain.AssemblyInfo.cs
+D:\Source\dotnet\AgileEngineTest\ImageGallerySearch.Domain\bin\Debug\netcoreapp3.1\ImageGallerySearch.Domain.deps.json
+D:\Source\dotnet\AgileEngineTest\ImageGallerySearch.Domain\bin\Debug\netcoreapp3.1\ImageGallerySearch.Domain.dll
+D:\Source\dotnet\AgileEngineTest\ImageGallerySearch.Domain\bin\Debug\netcoreapp3.1\ImageGallerySearch.Domain.pdb
+D:\Source\dotnet\AgileEngineTest\ImageGallerySearch.Domain\bin\Debug\netcoreapp3.1\ImageGallerySearch.AgileEngine.dll
+D:\Source\dotnet\AgileEngineTest\ImageGallerySearch.Domain\bin\Debug\netcoreapp3.1\ImageGallerySearch.Common.dll
+D:\Source\dotnet\AgileEngineTest\ImageGallerySearch.Domain\bin\Debug\netcoreapp3.1\ImageGallerySearch.DataTransferObjects.dll
+D:\Source\dotnet\AgileEngineTest\ImageGallerySearch.Domain\bin\Debug\netcoreapp3.1\ImageGallerySearch.AgileEngine.pdb
+D:\Source\dotnet\AgileEngineTest\ImageGallerySearch.Domain\bin\Debug\netcoreapp3.1\ImageGallerySearch.Common.pdb
+D:\Source\dotnet\AgileEngineTest\ImageGallerySearch.Domain\bin\Debug\netcoreapp3.1\ImageGallerySearch.DataTransferObjects.pdb
+D:\Source\dotnet\AgileEngineTest\ImageGallerySearch.Domain\obj\Debug\netcoreapp3.1\ImageGallerySearch.Domain.csproj.CopyComplete
+D:\Source\dotnet\AgileEngineTest\ImageGallerySearch.Domain\obj\Debug\netcoreapp3.1\ImageGallerySearch.Domain.dll
+D:\Source\dotnet\AgileEngineTest\ImageGallerySearch.Domain\obj\Debug\netcoreapp3.1\ImageGallerySearch.Domain.pdb
+D:\Source\dotnet\AgileEngineTest\ImageGallerySearch.Domain\obj\Debug\netcoreapp3.1\ImageGallerySearch.Domain.csproj.CoreCompileInputs.cache
